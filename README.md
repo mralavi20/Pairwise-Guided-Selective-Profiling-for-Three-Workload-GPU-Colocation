@@ -1,4 +1,4 @@
-# Pairwise-Guided Selective Profiling for Higher-Order GPU Workload Colocation
+# Pairwise-Guided Selective Profiling for Three Workload GPU Colocation
 
 This repository contains the code and experimental results for our paper on
 pairwise-guided selective profiling for GPU workload colocation.
