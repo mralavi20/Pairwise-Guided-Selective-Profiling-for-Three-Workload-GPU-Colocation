@@ -103,4 +103,4 @@ the collected measurements.
 
 This repository accompanies the paper:
 
-**Pairwise-Guided Selective Profiling for Higher-Order GPU Workload Colocation**
+**Pairwise-Guided Selective Profiling for Three Workload GPU Colocation**
